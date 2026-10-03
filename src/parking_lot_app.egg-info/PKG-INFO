@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: parking-lot-app
+Version: 0.1.0
+Summary: LLD of parking lot system
+Requires-Python: >=3.12
